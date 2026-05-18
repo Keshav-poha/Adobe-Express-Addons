@@ -19,7 +19,7 @@ These add-ons are built using the Adobe Express Add-on SDK and run directly with
 
 PhotoLabs is an image processing add-on that provides tools for channel manipulation, color space splitting, halftone prints, and glitch effects directly within the Adobe Express workspace.
 
-* **Marketplace Status:** [[https://new.express.adobe.com/add-ons?addOnId=wj0m68mk2](#marketplace--installation-links)]
+* **Marketplace Status:** [View listing](https://new.express.adobe.com/add-ons?addOnId=wj0m68mk2)
 
 ### Key Features
 
@@ -81,7 +81,7 @@ Romanizer & Ruby is a text localization add-on that handles real-time script tra
 Pixel Pluck was developed during the Adobe Express Add-ons for Enterprise Hackathon at NSUT. It is an AI-powered design assistant that helps designers maintain brand compliance, generate relevant design ideas, and audit layouts directly on the canvas.
 
 * **Repository:** [Keshav-poha/Pixel-Pluck](https://github.com/Keshav-poha/Pixel-Pluck)
-* **Marketplace Status:** [https://new.express.adobe.com/add-ons?addOnId=wmjj5kn15](#marketplace--installation-links)
+* **Marketplace Status:** [View listing](https://new.express.adobe.com/add-ons?addOnId=wmjj5kn15)
 
 ### Key Features
 
@@ -134,13 +134,13 @@ graph TD
 
 ## Marketplace & Installation Links
 
-Below is the directory for the official Adobe Express Marketplace links for each add-on.
+Below is the list of official Adobe Express Marketplace links for each add-on.
 
 | Add-on Name | Marketplace Installation Link | Developer | Source Code |
 | :--- | :--- | :--- | :--- |
-| **PhotoLabs** | 📥 [Install on Adobe Express Marketplace](https://express.adobe.com/sp/addons) *(Link coming soon!)* | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Photolab) |
+| **PhotoLabs** | 📥 [Install on Adobe Express Marketplace](https://new.express.adobe.com/add-ons?addOnId=wj0m68mk2) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Photolab) |
 | **Romanizer & Ruby** | 📥 [Install on Adobe Express Marketplace](https://express.adobe.com/sp/addons) *(Link coming soon!)* | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/romanizer-ruby) |
-| **Pixel Pluck** | 📥 [Install on Adobe Express Marketplace](https://express.adobe.com/sp/addons) *(Link coming soon!)* | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Pixel-Pluck) |
+| **Pixel Pluck** | 📥 [Install on Adobe Express Marketplace](https://new.express.adobe.com/add-ons?addOnId=wmjj5kn15) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Pixel-Pluck) |
 
 ---
 
