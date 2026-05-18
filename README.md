@@ -19,8 +19,7 @@ These add-ons are built using the Adobe Express Add-on SDK and run directly with
 
 PhotoLabs is an image processing add-on that provides tools for channel manipulation, color space splitting, halftone prints, and glitch effects directly within the Adobe Express workspace.
 
-* **Repository:** [Keshav-poha/Photolab](https://github.com/Keshav-poha/Photolab)
-* **Marketplace Status:** [Install Link](#marketplace--installation-links)
+* **Marketplace Status:** [[https://new.express.adobe.com/add-ons?addOnId=wj0m68mk2](#marketplace--installation-links)]
 
 ### Key Features
 
@@ -54,8 +53,7 @@ PhotoLabs is an image processing add-on that provides tools for channel manipula
 
 Romanizer & Ruby is a text localization add-on that handles real-time script transliteration, language translation, and automated positioning of phonetic Ruby annotations (furigana/pinyin/indic guides) above text elements.
 
-* **Repository:** [Keshav-poha/romanizer-ruby](https://github.com/Keshav-poha/romanizer-ruby)
-* **Marketplace Status:** [Install Link](#marketplace--installation-links)
+* **Marketplace Status:** [Soon](#marketplace--installation-links)
 
 ### Key Features
 
@@ -83,7 +81,7 @@ Romanizer & Ruby is a text localization add-on that handles real-time script tra
 Pixel Pluck was developed during the Adobe Express Add-ons for Enterprise Hackathon at NSUT. It is an AI-powered design assistant that helps designers maintain brand compliance, generate relevant design ideas, and audit layouts directly on the canvas.
 
 * **Repository:** [Keshav-poha/Pixel-Pluck](https://github.com/Keshav-poha/Pixel-Pluck)
-* **Marketplace Status:** [Install Link](#marketplace--installation-links)
+* **Marketplace Status:** [https://new.express.adobe.com/add-ons?addOnId=wmjj5kn15](#marketplace--installation-links)
 
 ### Key Features
 
