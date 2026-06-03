@@ -53,7 +53,7 @@ PhotoLabs is an image processing add-on that provides tools for channel manipula
 
 Romanizer & Ruby is a text localization add-on that handles real-time script transliteration, language translation, and automated positioning of phonetic Ruby annotations (furigana/pinyin/indic guides) above text elements.
 
-* **Marketplace Status:** [Soon](#marketplace--installation-links)
+* **Marketplace Status:** [View Listing](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w6i12kikm)
 
 ### Key Features
 
@@ -139,7 +139,7 @@ Below is the list of official Adobe Express Marketplace links for each add-on.
 | Add-on Name | Marketplace Installation Link | Developer | Source Code |
 | :--- | :--- | :--- | :--- |
 | **PhotoLabs** | 📥 [Install on Adobe Express Marketplace](https://new.express.adobe.com/add-ons?addOnId=wj0m68mk2) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Photolab) |
-| **Romanizer & Ruby** | 📥 [Install on Adobe Express Marketplace](https://express.adobe.com/sp/addons) *(Link coming soon!)* | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/romanizer-ruby) |
+| **Romanizer & Ruby** | 📥 [Install on Adobe Express Marketplace](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w6i12kikm) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/romanizer-ruby) |
 | **Pixel Pluck** | 📥 [Install on Adobe Express Marketplace](https://new.express.adobe.com/add-ons?addOnId=wmjj5kn15) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Pixel-Pluck) |
 
 ---
