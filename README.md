@@ -107,6 +107,8 @@ Pixel Pluck was developed during the Adobe Express Add-ons for Enterprise Hackat
 
 ## Animated Sprites - Modular Character Builder & Animator
 
+![Animated Sprites Logo](./logo.png)
+
 Animated Sprites is a modular character builder and animator add-on that lets users design, customize, and animate 16-bit Liberated Pixel Cup (LPC) style pixel art characters directly inside their Adobe Express document.
 
 * **Repository:** [Keshav-poha/LPC-addon](https://github.com/Keshav-poha/LPC-addon)
