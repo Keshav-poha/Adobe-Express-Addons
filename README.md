@@ -10,8 +10,9 @@ These add-ons are built using the Adobe Express Add-on SDK and run directly with
 1. [PhotoLabs (Advanced Image Processing)](#photolabs---advanced-image-processing)
 2. [Romanizer & Ruby (Text Localization)](#romanizer--ruby---text-localization)
 3. [Pixel Pluck (AI-Powered Design Assistant)](#pixel-pluck---ai-powered-design-assistant)
-4. [Technical Architecture](#technical-architecture)
-5. [Marketplace & Installation Links](#marketplace--installation-links)
+4. [Animated Sprites (Modular Character Builder & Animator)](#animated-sprites---modular-character-builder--animator)
+5. [Technical Architecture](#technical-architecture)
+6. [Marketplace & Installation Links](#marketplace--installation-links)
 
 ---
 
@@ -104,6 +105,34 @@ Pixel Pluck was developed during the Adobe Express Add-ons for Enterprise Hackat
 
 ---
 
+## Animated Sprites - Modular Character Builder & Animator
+
+Animated Sprites is a modular character builder and animator add-on that lets users design, customize, and animate 16-bit Liberated Pixel Cup (LPC) style pixel art characters directly inside their Adobe Express document.
+
+* **Repository:** [Keshav-poha/LPC-addon](https://github.com/Keshav-poha/LPC-addon)
+* **Marketplace Status:** In Development
+
+### Key Features
+
+* **Dynamic Character Builder:**
+  * Customize body types (Male, Female, Muscular, Pregnant, Teen, Child), hairstyles (30+ variations), eyes, noses, ears, apparel (torso, legs, footwear, headwear, armor), and equip weapons (swords, daggers, bows) or tools (axes, hoes).
+* **Real-Time Animation Preview:**
+  * Instantly preview character movements (Walk, Run, Jump, Sit, Emote, Climb, Spellcast, Thrust, Slash, Shoot, Hurt, Combat Idle, 1H Slash, 1H Backslash, 1H Halfslash, Watering) across all four directions.
+* **High-Fidelity Rendering:**
+  * Renders character sprites at 512×512 using crisp, nearest-neighbor canvas interpolation to preserve clean pixel-art aesthetics.
+* **Animated GIF Export & Drag-and-Drop:**
+  * Compile and insert high-quality animated GIFs directly onto your Adobe Express design canvas with a single click or drag.
+* **Attribution & Credits Manager:**
+  * Automatically tracks and aggregates attribution details (authors, OGA links, licenses) for every active layer on your character. Click "Add Credits to Document" to place required attributions directly onto your page as text boxes.
+
+### Tech Stack
+* **UI Framework:** Lit (v2.8) + Spectrum Web Components
+* **Compositing:** Canvas 2D context layered rendering with asynchronous image preloading and caching.
+* **GIF Encoder:** Client-side Web Worker-based GIF encoding (`gif.js`).
+* **Runtime:** Dual-Runtime Integration (UI + Document Sandbox for placing attribution text nodes).
+
+---
+
 ## Technical Architecture
 
 Each add-on in this ecosystem utilizes the robust Adobe Express Dual-Runtime Model to guarantee performance, visual integration, and security.
@@ -141,6 +170,7 @@ Below is the list of official Adobe Express Marketplace links for each add-on.
 | **PhotoLabs** | 📥 [Install on Adobe Express Marketplace](https://new.express.adobe.com/add-ons?addOnId=wj0m68mk2) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Photolab) |
 | **Romanizer & Ruby** | 📥 [Install on Adobe Express Marketplace](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w6i12kikm) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/romanizer-ruby) |
 | **Pixel Pluck** | 📥 [Install on Adobe Express Marketplace](https://new.express.adobe.com/add-ons?addOnId=wmjj5kn15) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Pixel-Pluck) |
+| **Animated Sprites** | ⚙️ [In Development](https://github.com/Keshav-poha/LPC-addon) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/LPC-addon) |
 
 ---
 
