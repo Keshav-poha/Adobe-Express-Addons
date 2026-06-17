@@ -131,6 +131,20 @@ Animated Sprites is a modular character builder and animator add-on that lets us
 * **GIF Encoder:** Client-side Web Worker-based GIF encoding (`gif.js`).
 * **Runtime:** Dual-Runtime Integration (UI + Document Sandbox for placing attribution text nodes).
 
+### LPC Sprite Assets Credits & Attributions
+
+The sprite assets loaded dynamically by Animated Sprites are created by the community of artists from the **Liberated Pixel Cup (LPC)**. 
+Per LPC copyleft licenses (CC-BY-SA 3.0, GPLv3, and OGA-BY 3.0), users must attribute the creators when utilizing the generated graphics:
+- **bluecarrot16** (spritesheet consolidations, clothing, weapons, accessories)
+- **Johannes Sjölund (wulax)** (original female base, hair, clothing, weapons)
+- **Stephen Challener (Redshrike)** (original male base concepts/design)
+- **Eliza Wyatt (ElizaWy)** (base bodies, animations, and clothing)
+- **Lanea Zimmerman (Sharm)** (original base art textures and concepts)
+- **Daniel Eddeland (daneeklu)** (original clothing, armor, hairstyles)
+- **JaidynReiman** (thick male body bases and animations)
+
+The add-on features a built-in **Credits Manager** that aggregates these credits dynamically and lets you place them on your canvas as text layers.
+
 ---
 
 ## Technical Architecture
