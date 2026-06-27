@@ -110,7 +110,7 @@ Pixel Pluck was developed during the Adobe Express Add-ons for Enterprise Hackat
 Animated Sprites is a modular character builder and animator add-on that lets users design, customize, and animate 16-bit Liberated Pixel Cup (LPC) style pixel art characters directly inside their Adobe Express document.
 
 * **Repository:** [Keshav-poha/LPC-addon](https://github.com/Keshav-poha/LPC-addon)
-* **Marketplace Status:** https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wk6g6l5li
+* **Marketplace Status:** [View Listing](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wk6g6l5li)
 
 ### Key Features
 
@@ -184,7 +184,7 @@ Below is the list of official Adobe Express Marketplace links for each add-on.
 | **PhotoLabs** | 📥 [Install on Adobe Express Marketplace](https://new.express.adobe.com/add-ons?addOnId=wj0m68mk2) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Photolab) |
 | **Romanizer & Ruby** | 📥 [Install on Adobe Express Marketplace](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w6i12kikm) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/romanizer-ruby) |
 | **Pixel Pluck** | 📥 [Install on Adobe Express Marketplace](https://new.express.adobe.com/add-ons?addOnId=wmjj5kn15) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/Pixel-Pluck) |
-| **Animated Sprites** | 📥 [Install on Adobe Marketplace](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wk6g6l5li) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/LPC-addon) |
+| **Animated Sprites** | 📥 [Install on Adobe Express Marketplace](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=wk6g6l5li) | [Keshav Kumar](https://github.com/Keshav-poha) | [GitHub Repository](https://github.com/Keshav-poha/LPC-addon) |
 
 ---
 
